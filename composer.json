@@ -1,0 +1,6 @@
+{
+    "require": {
+        "symfony/symfony":"dev-master",
+        "symfony/http-client":"dev-master"
+    }
+}
